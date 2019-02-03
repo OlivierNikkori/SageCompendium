@@ -1,7 +1,7 @@
 # Symmetric Superpolynomials module for SAGE
 Superpartitions, superpolynomial ring and superspace with SAGE.
 
-This is intended to be used with the Compendium of results on symmetric functions in superspace (or superpolynomials), which will be publish in the next few months.
+This is intended to be used with the Compendium of results on symmetric functions in superspace (or superpolynomials), which will be publish in the next few months, in February.
 
 ## Instructions
 ### Requirements
